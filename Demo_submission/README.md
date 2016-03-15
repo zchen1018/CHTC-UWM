@@ -8,7 +8,7 @@ Reference: http://chtc.cs.wisc.edu/helloworld.shtml
 
 2. Connect to to submit-3: 
 
-	ssh username@submit-3.chtc.wisc.edu
+	ssh *username*@submit-3.chtc.wisc.edu
 
 3. Tell the filesystem that hello-chtc.sh should have executable permissions:
 
@@ -26,8 +26,8 @@ Reference: http://chtc.cs.wisc.edu/helloworld.shtml
 
 	cat *.out
 
-
-5. Logout:
+ 
+7. Logout:
 
 	logout
 
