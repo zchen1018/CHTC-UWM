@@ -2,7 +2,6 @@ Reference:
 
 http://chtc.cs.wisc.edu/r-jobs.shtml
 
-ssh zchen387@submit-3.chtc.wisc.edu
 
 ### Steps to Submit R Scripts
 
