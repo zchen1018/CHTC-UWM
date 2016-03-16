@@ -46,7 +46,7 @@ ssh zchen387@submit-3.chtc.wisc.edu
 	tar -czvf R.tar.gz R/
 	exit
 	
-After step 8, we already have our own installation on submit server. Next, create the files needed to submit R scripts.
+	After step 8, we already have our own installation on submit server. Next, create the files needed to submit R scripts.
 
 9. Check how big your R.tar.gz file is:
 
