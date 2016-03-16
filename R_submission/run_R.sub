@@ -1,0 +1,17 @@
+# run_R.sub
+# Submit file
+#
+#
+executable = run_R.sh
+arguments = sample.R
+log	= $(Process).log	
+error =	$(Process).err	
+output = $(Process).out	
+
+transfer_input_files = sample.R
+
+request_cpus = 1
+request_memory = 1GB
+request_disk = 1MB
+requirements = (OpSys == "LINUX") && (OpSysMajorVer == 6)
+queue	
